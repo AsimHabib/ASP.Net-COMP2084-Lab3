@@ -1,0 +1,20 @@
+Lab 3 - Data Access with Entity Framework
+
+For this lab you will work with the Contoso database and the Entity Framework to perform Update and Delete operations.  You will be working with the Students table.
+
+Work with YOUR in-class solution (***NOT MINE***) and add:
+
+1. a Delete link beside each row of the gridview on students.aspx
+- clicking the link shows a JavaScript confirmation box
+- clicking OK in the confirmation deletes the student and refreshes the list
+
+2. an Edit link beside each row of the gridview on students.aspx
+
+3. on student-details.aspx
+- code to populate the form the values from the database for the selected student
+- code on the save button to update the existing student then redirect back to the updated students page
+
+4. push a copy of your lab to GitHub at https://github.com/[your-username]/comp2084-lab3
+
+To submit the lab, you can either a) post the link to your Git repository or b) zip and upload your solution to Blackboard
+
